@@ -1,0 +1,1 @@
+`This browser using PyQt5`
